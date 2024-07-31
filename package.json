@@ -4,10 +4,10 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node main.js",
-    "build": "echo 'No build step required'"
-  },
+  "build": "echo 'No build step required'",
+  "start": "node main.js",
+  "vercel-build": "echo 'No build step required'"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
